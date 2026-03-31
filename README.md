@@ -60,6 +60,7 @@ By visiting the URL from the image, we can obtain the answer.
 
 # What is the URL that the infected host connected to?
 Answer: hxxps[://]controlc[.]com/e4d11035
+
 The URL is defanged.
 
 
